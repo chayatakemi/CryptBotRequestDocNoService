@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptBotRequestDocNoService", "CryptBotRequestDocNoService.csproj", "{5A03FF4C-CD0C-4442-9EEA-C3E26265E172}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "WSRequestDocNoServiceInstaller_Test", "..\WSRequestDocNoServiceInstaller_Test\WSRequestDocNoServiceInstaller_Test.vdproj", "{2DFDD63E-6B5F-4077-9BF9-40B821573402}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A03FF4C-CD0C-4442-9EEA-C3E26265E172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A03FF4C-CD0C-4442-9EEA-C3E26265E172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A03FF4C-CD0C-4442-9EEA-C3E26265E172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A03FF4C-CD0C-4442-9EEA-C3E26265E172}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DFDD63E-6B5F-4077-9BF9-40B821573402}.Debug|Any CPU.ActiveCfg = Debug
+		{2DFDD63E-6B5F-4077-9BF9-40B821573402}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A9907471-BD35-463B-BD90-3B3C43FFAE75}
+	EndGlobalSection
+EndGlobal
